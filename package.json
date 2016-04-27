@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/napunapu/ekademo#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
   }
 }
